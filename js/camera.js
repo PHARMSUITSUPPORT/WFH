@@ -1,5 +1,5 @@
 
-  /**
+/**
  * camera.js — WFH System Camera Module
  * ─────────────────────────────────────
  * รองรับ: Chrome, Safari iOS, Android, LINE (redirect), iframe
