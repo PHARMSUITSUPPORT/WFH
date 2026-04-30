@@ -22,7 +22,7 @@ let attachments    = [];
 let dailyPdfData   = [];
 
 const RPT_PER_PAGE = 15;
-const LOGO_URL     = 'https://lh3.googleusercontent.com/d/1tEuBft9_e3q6Q79o6vHI_HMRaL2hSNB3';
+const LOGO_URL     = 'https://lh3.googleusercontent.com/d/1POjUhB92k3ixBl6JsGIe4xgkPxxeifjd';
 
 /* ════════════════════════════════════════
    INIT
